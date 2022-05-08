@@ -1,5 +1,11 @@
 # UVM Playground
 
+## Useful links
+
+- https://www.chipverify.com/uvm/uvm-tutorial
+
+
+
 ## UVM for FPGAs (Part 1): Get, Set, Go – Be Productive with UVM
 
 https://www.aldec.com/en/support/resources/multimedia/webinars/2136
